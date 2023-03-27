@@ -1,0 +1,12 @@
+<svg id="cashier" xmlns="http://www.w3.org/2000/svg" width="14.59" height="14.59" viewBox="0 0 14.59 14.59">
+  <path id="Path_40146" data-name="Path 40146" d="M196.57,393.14h2.28a.57.57,0,0,0,0-1.14h-2.28a.57.57,0,1,0,0,1.14Z" transform="translate(-190.415 -380.83)" fill="#aba5a2"/>
+  <g id="Group_42364" data-name="Group 42364">
+    <circle id="Ellipse_1029" data-name="Ellipse 1029" cx="0.581" cy="0.581" r="0.581" transform="translate(8.13 4.646)" fill="#aba5a2"/>
+    <circle id="Ellipse_1030" data-name="Ellipse 1030" cx="0.581" cy="0.581" r="0.581" transform="translate(10.452 4.646)" fill="#aba5a2"/>
+    <circle id="Ellipse_1031" data-name="Ellipse 1031" cx="0.581" cy="0.581" r="0.581" transform="translate(8.13 6.968)" fill="#aba5a2"/>
+    <circle id="Ellipse_1032" data-name="Ellipse 1032" cx="0.581" cy="0.581" r="0.581" transform="translate(10.452 6.968)" fill="#aba5a2"/>
+    <path id="Path_40147" data-name="Path 40147" d="M1.71,317.7H12.88a1.712,1.712,0,0,0,1.71-1.71v-2.28A1.712,1.712,0,0,0,12.88,312H1.71A1.712,1.712,0,0,0,0,313.71v2.28A1.712,1.712,0,0,0,1.71,317.7Zm-.57-3.989a.571.571,0,0,1,.57-.57H12.88a.571.571,0,0,1,.57.57v2.28a.571.571,0,0,1-.57.57H1.71a.571.571,0,0,1-.57-.57Z" transform="translate(0 -303.109)" fill="#aba5a2"/>
+    <path id="Path_40148" data-name="Path 40148" d="M36.57,7.751a.57.57,0,0,0,.57-.57V4.9a1.712,1.712,0,0,1,1.71-1.71h6.839A1.712,1.712,0,0,1,47.4,4.9v2.28a.57.57,0,1,0,1.14,0V4.9a2.853,2.853,0,0,0-2.85-2.85h-.57V1.14h.57a.57.57,0,0,0,0-1.14h-2.28a.57.57,0,0,0,0,1.14h.57v.912H38.85A2.853,2.853,0,0,0,36,4.9v2.28A.57.57,0,0,0,36.57,7.751Z" transform="translate(-34.974)" fill="#aba5a2"/>
+    <path id="Path_40149" data-name="Path 40149" d="M116.57,152a.57.57,0,0,0-.57.57v2.28a.57.57,0,0,0,.57.57h2.28a.57.57,0,0,0,.57-.57v-2.28a.57.57,0,0,0-.57-.57Zm1.71,2.28h-1.14v-1.14h1.14Z" transform="translate(-112.694 -147.669)" fill="#aba5a2"/>
+  </g>
+</svg>

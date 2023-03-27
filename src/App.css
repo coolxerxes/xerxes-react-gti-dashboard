@@ -1,0 +1,72 @@
+#root {
+	margin: 0 auto;
+	padding: 2rem 0;
+	text-align: center;
+}
+
+.logo {
+	height: 6em;
+	padding: 1.5em;
+	will-change: filter;
+	transition: filter 300ms;
+}
+
+.sideMenu::-webkit-scrollbar {
+	width: 0px;
+}
+
+.additionTable thead {
+	height: 60px;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+.additionTable thead th {
+	padding-left: 10px;
+	text-align: left;
+}
+
+.additionTable thead th:first-child {
+	padding-left: 20px;
+}
+
+.additionTable tbody tr {
+	height: 60px;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+.additionTable tbody tr td:first-child {
+	padding-left: 22px;
+}
+
+.additionTable tbody tr td {
+	text-align: left;
+	padding-left: 12px;
+}
+
+.additionTable tbody tr td:last-child {
+	padding-right: 15px;
+}
+
+.additionTable tbody tr td svg {
+	font-size: 18px;
+}
+.redBlock::before {
+	content: '.';
+	width: 5px;
+	height: 20px;
+	color: #c02328;
+	background-color: #c02328;
+	border-radius: 0px 5px 5px 0px;
+	margin-right: 15px;
+	display: block;
+}
+.redBlockAfter::after {
+	content: '.';
+	width: 5px;
+	height: 20px;
+	color: #c02328;
+	background-color: #c02328;
+	border-radius: 5px 0px 0px 5px;
+	margin-left: 15px;
+	display: block;
+}
